@@ -1,0 +1,10 @@
+技术点:
+1、butterknife注解
+2、rxjava
+3、leakcanary内存检测
+4、logger日志打印
+5、JDBC
+6、MVP
+7、MD5加密
+8.动态申请权限
+9.设计模式  单例 工厂 建造者
