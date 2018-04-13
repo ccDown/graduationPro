@@ -1,12 +1,10 @@
-package soul.listener.com.humiture.manager;
+package soul.listener.com.humiture.util;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Process;
 
 import java.util.Stack;
-
-import soul.listener.com.humiture.util.ToastUtil;
 
 /**
  * @description 应用程序Activity管理类：用于Activity管理和应用程序退出

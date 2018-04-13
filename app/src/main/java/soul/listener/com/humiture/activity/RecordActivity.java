@@ -2,7 +2,6 @@ package soul.listener.com.humiture.activity;
 
 import android.app.Activity;
 import android.content.Intent;
-import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
@@ -12,14 +11,12 @@ import android.widget.TextView;
 import java.util.List;
 
 import butterknife.BindView;
-import butterknife.ButterKnife;
-import soul.listener.com.humiture.Adapter.RecordAdapter;
+import soul.listener.com.humiture.adapter.RecordAdapter;
 import soul.listener.com.humiture.R;
 import soul.listener.com.humiture.a_model.RecordModel;
 import soul.listener.com.humiture.a_presenters.RecordPresenter;
 import soul.listener.com.humiture.a_views.RecordView;
 import soul.listener.com.humiture.base.BaseMvpActivity;
-import soul.listener.com.humiture.util.ToastUtil;
 
 /**
  * Created by kys_31 on 2017/12/18.

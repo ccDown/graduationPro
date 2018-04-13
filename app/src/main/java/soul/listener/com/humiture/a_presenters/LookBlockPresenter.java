@@ -25,7 +25,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import soul.listener.com.humiture.Adapter.RecordAdapter;
+import soul.listener.com.humiture.adapter.RecordAdapter;
 import soul.listener.com.humiture.R;
 import soul.listener.com.humiture.a_model.PartDataSelectionModel;
 import soul.listener.com.humiture.a_model.RecordModel;

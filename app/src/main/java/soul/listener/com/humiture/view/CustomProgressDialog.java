@@ -1,4 +1,4 @@
-package soul.listener.com.humiture.customcontrol;
+package soul.listener.com.humiture.view;
 
 import android.app.Dialog;
 import android.content.Context;

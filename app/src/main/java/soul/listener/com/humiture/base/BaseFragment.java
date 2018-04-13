@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 import soul.listener.com.humiture.a_views.IBaseView;
-import soul.listener.com.humiture.customcontrol.CustomProgressDialog;
+import soul.listener.com.humiture.view.CustomProgressDialog;
 
 /**
  * @description BaseFragment

@@ -1,9 +1,7 @@
-package soul.listener.com.humiture.Adapter;
+package soul.listener.com.humiture.adapter;
 
-import android.app.Activity;
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,12 +9,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import java.util.List;
-import java.util.logging.Logger;
 
 import soul.listener.com.humiture.R;
 import soul.listener.com.humiture.a_model.RecordModel;
-import soul.listener.com.humiture.activity.RecordActivity;
-import soul.listener.com.humiture.db.SQLHelper;
 
 /**
  * Created by kys_31 on 2017/12/18.

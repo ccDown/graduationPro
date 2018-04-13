@@ -5,15 +5,14 @@ import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.support.v7.app.AppCompatActivity;
 import android.view.WindowManager;
 
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 import soul.listener.com.humiture.R;
-import soul.listener.com.humiture.manager.AppManager;
+import soul.listener.com.humiture.util.AppManager;
 import soul.listener.com.humiture.a_views.IBaseView;
-import soul.listener.com.humiture.customcontrol.CustomProgressDialog;
+import soul.listener.com.humiture.view.CustomProgressDialog;
 
 /**
  * @description IBasePresenter
