@@ -10,12 +10,12 @@ public class Constants {
     public static final boolean DEBUG = true;
 
     //远程数据库账号
-    //public static final String SQLITEURL = "jdbc:mysql://120.24.52.34:3306/housetem";
-    public static final String SQLITEURL = "jdbc:mysql://114.115.172.62:3306/tmdb";
+    public static final String SQLITEURL = "jdbc:mysql://120.24.52.34:3306/housetem";
+    
     //远程数据库账号
     public static final String SQLITEUSER = "appuser";
     //远程数据库密码
-    public static final String SQLITEPW = "Wrj,0606";
+    public static final String SQLITEPW = "123456";
 
     //默认 SharePreferences文件名
     public static final String SHARED_PATH = "soul.listener.com.humiture";
